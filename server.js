@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3001;
-const notesPath = path.join(__dirname, 'Db', 'db.json');
+const notesPath = path.join(__dirname, 'db', 'db.json');
 
 // Middleware to parse JSON and serve static assets
 app.use(express.json());
