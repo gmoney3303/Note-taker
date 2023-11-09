@@ -1,5 +1,8 @@
 # Note-taker
 
+## Link 
+https://shielded-lowlands-69945-db4dbeea2f36.herokuapp.com/notes
+
 ## Description 
 this project helped me learn more with server.js connecting to html do use node.js to deploy the website and have it work live
 
